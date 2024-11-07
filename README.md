@@ -2,7 +2,7 @@
 # BalloonHunterPi
 
 🚀 **BalloonHunterPi** הוא פרויקט מערכת אוטונומית לזיהוי, מעקב ויירוט בלונים בזמן אמת, המיועד להדגמה ולמידה של עיבוד תמונה, בינה מלאכותית ובקרת תנועה.
-![זיהוי ויירוט הבלון](images/Balloon_detection.gif)
+![זיהוי ויירוט הבלון](Images/Balloon_detection.gif)
 ## 
 תוכן עניינים
 - [אודות](#אודות)
