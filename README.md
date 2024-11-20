@@ -1,6 +1,6 @@
 # BalloonHunterPi
 
-![Demo GIF](Images/Balloon_detection.gif)
+![Demo GIF](Images/IMG_4549.png)
 
 🎓 **BalloonHunterPi** is an autonomous system for detecting, tracking, and intercepting balloons in real-time. This project combines advanced technologies in image processing, artificial intelligence, and motion control, designed as part of my final engineering project.
 
@@ -50,8 +50,9 @@ The system comprises three main modules:
    - The system calculates the balloon's location in pixels and converts it into angles for motor positioning.  
 
 3. **Motor Control**  
-   Servo motors adjust the laser pointer's position based on the detected angles.  
-
+   Servo motors adjust the laser pointer's position based on the detected angles.
+   
+![Demo GIF](Images/Balloon_detection.gif)
 
 ---
 
