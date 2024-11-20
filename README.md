@@ -44,17 +44,14 @@ The system comprises three main modules:
 ## How It Works
 1. **Real-Time Video Input**  
    A high-resolution USB camera streams live video to the Raspberry Pi.  
-   **[Add an image of the camera in action]**
 
 2. **Detection and Data Processing**  
    - TensorFlow Lite detects balloons in the video frames.  
    - The system calculates the balloon's location in pixels and converts it into angles for motor positioning.  
 
-   **[Add a screenshot of a detected balloon with a bounding box]**
-
 3. **Motor Control**  
    Servo motors adjust the laser pointer's position based on the detected angles.  
-   **[Add a flowchart showing the data processing and motor control pipeline]**
+
 
 ---
 
@@ -95,7 +92,7 @@ The system comprises three main modules:
 - **Robust Safety Mechanism**:  
   The laser is deactivated automatically when no balloon is detected.  
 
-**[Add an image showing the system detecting and tracking balloons in real-time]**
+![detecting](Images/IMG_4564.png)
 
 ---
 
@@ -121,19 +118,6 @@ The system comprises three main modules:
 - **Improved Servo Motors**:  
   Upgrading motors for better stability and faster response.  
 
----
-
-## Images and Videos
-
-### **System in Action**
-**[Add an image of the full system setup, including the camera, motors, and laser pointer]**
-
-### **Balloon Detection**
-**[Add an image or GIF showing real-time balloon detection and tracking]**
-
-### **Demo Video**
-Watch the system in action:  
-[YouTube - System Demo](https://www.youtube.com/your_demo_video)
 
 ---
 
