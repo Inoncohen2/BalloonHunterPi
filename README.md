@@ -38,8 +38,7 @@ The system comprises three main modules:
    - Servo motors precisely aim a laser pointer at the detected balloon's position.  
    - A safety mechanism ensures the laser activates only when a clear target is identified.
 
-**[Add a complete architecture diagram here, showing hardware connections and system workflow]**
-
+![architecture](Images/architecture.jpg)
 ---
 
 ## How It Works
