@@ -63,8 +63,6 @@ The system comprises three main modules:
   - The model was trained in Google Colab using the TensorFlow Object Detection API.  
   - Data was converted to TFRecord format for training.  
 
-**[Add training graphs like Total Loss and Localization Loss]**
-
 - **Initial Testing**:  
   The system was tested for detection accuracy, motor responsiveness, and real-time tracking.
 
