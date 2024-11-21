@@ -2,7 +2,7 @@
 
 ![Demo GIF](Images/IMG_4549.png)
 
-🎓 **BalloonHunterPi** is an autonomous system for detecting, tracking, and intercepting balloons in real-time. This project combines advanced technologies in image processing, artificial intelligence, and motion control, designed as part of my final engineering project.
+**BalloonHunterPi** is an autonomous system for detecting, tracking, and intercepting balloons in real-time. This project combines advanced technologies in image processing, artificial intelligence, and motion control, designed as part of my final engineering project.
 
 ---
 
